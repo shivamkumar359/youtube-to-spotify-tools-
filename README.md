@@ -20,3 +20,17 @@ A Python tool to extract real YouTube video titles from a Watch Later playlist a
 ## Installation
 ```bash
 pip install -r requirements.txt
+
+
+## Why this exists
+YouTube Watch Later cannot be shared or exported. This guide shows a clean,
+repeatable way to extract real video titles and prepare them for Spotify.
+
+## What this is NOT
+- Not a YouTube downloader
+- Not a Spotify scraper
+- Not a playlist mirroring tool
+
+## Limitations
+- Deleted / private videos cannot be recovered
+- Spotify availability varies by region
